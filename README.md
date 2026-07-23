@@ -1,28 +1,152 @@
-![logo](https://github.com/sumiNoob123/sumiNoob123/blob/main/acbc-2605e48e2b75.png)
+<!-- ===================== BANNER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Sumitra Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suminoob123&label=Profile%20views&color=0e75b6&style=flat" alt="suminoob123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suminoob123" alt="suminoob123" /></a> </p>
-
-- 🌱 I’m currently learning **java , ai**
-
-- 📫 How to reach me **SUMI37689@GMAIL.COM**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumitra(sumii)sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitra(sumii)sharma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/sumiNoob123/sumiNoob123/blob/main/acbc-2605e48e2b75.png" alt="Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Sumitra Sharma</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suminoob123&show_icons=true&locale=en&layout=compact" alt="suminoob123" /></p>
+<h3 align="center">
+Frontend Developer • Java Learner • AI Enthusiast
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suminoob123&show_icons=true&locale=en" alt="suminoob123" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suminoob123&" alt="suminoob123" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;Java+Learner;AI+Enthusiast;Always+Learning+New+Things+🚀" />
+
+</p>
+
+<p align="center">
+
+<a href="https://komarev.com/ghpvc/?username=sumiNoob123">
+<img src="https://komarev.com/ghpvc/?username=sumiNoob123&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<!-- ========================= ABOUT ME ========================= -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  About Me
+</h2>
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+### 💜 Hi, I'm **Sumitra Sharma**
+
+💻 **Frontend Developer** from **India**
+
+🌱 **Currently Learning**
+- ☕ Java
+- 🤖 Artificial Intelligence
+- ⚛️ React.js
+
+🎯 **Current Goal**
+> Become a **Full Stack Developer** and build modern, user-friendly web applications.
+
+✨ **What I Love**
+- 🎨 Creating beautiful UI/UX
+- 💡 Learning new technologies
+- 🚀 Building responsive websites
+- 📚 Solving real-world problems with code
+
+📫 **Reach Me**
+
+<a href="mailto:SUMI37689@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-SUMI37689%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="320"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Frontend%20Developer-8A2BE2?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-Learner-orange?style=for-the-badge&logo=openjdk"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-Enthusiast-blueviolet?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,git,github,vscode"/>
+
+</p>
+
+<!-- ========================= END ABOUT ME ========================= -->
+
+# 🌈 Custom Divider
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=100&section=footer"/>
+
+ # 🎯 Currently Working On
+
+✔ Java
+
+✔ Artificial Intelligence
+
+✔ Frontend Development
+
+✔ React
+
+✔ Portfolio Website
+---
+
+ # 📊  Summary Cards
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumiNoob123&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumiNoob123&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumiNoob123&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumiNoob123&theme=tokyonight"/>
+
+</p>
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sumitrasharma35/" target="_blank">
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+
+</a>
+
+<a href="mailto:SUMI37689@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+
+</a>
+
+</p>
+
+---
+#  🐍 Snake Game
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
